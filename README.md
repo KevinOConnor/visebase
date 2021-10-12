@@ -1,6 +1,8 @@
 This is a "helping hands" base for the "PANAVISE model 201 Junior"
 vise.
 
+![Assembled](docs/img/assembled.jpg)
+
 The vise can be screwed to the base using M6 bolts and nuts.
 
 The base is designed for "1/4PT Flexible Oil Coolant Pipe Hose" to be
